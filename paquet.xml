@@ -1,0 +1,17 @@
+<paquet
+	prefix="directioncss"
+	categorie="outil"
+	version="1.0.0"
+	etat="test"
+	compatibilite="[3.0.0;3.2.*]"
+	logo="directioncss-32.png"
+>
+
+	<nom>Direction CSS</nom>
+
+	<auteur lien="https://www.nursit.com/Cedric-Morin">Cédric</auteur>
+	<licence>GNU/GPL</licence>
+
+	<utilise nom="compresseur" compatibilite="[;]" />
+
+</paquet>
